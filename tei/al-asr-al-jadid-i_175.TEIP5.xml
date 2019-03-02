@@ -58,7 +58,7 @@
                                 <placeName xml:lang="en" ref="geon:170654" change="#d5e58">Damascus</placeName>
                                 <placeName xml:lang="fr" ref="geon:170654" change="#d5e58">Damas</placeName>
                             </pubPlace>
-                            <tei:date when="1910-03-02" xml:lang="en">2 March 1910, Wednesday</tei:date>
+                            <tei:date calendar="#cal_gregorian" when="1910-03-02" xml:lang="en">2 March 1910, Wednesday</tei:date>
                             <tei:date calendar="#cal_islamic"
                                datingMethod="#cal_islamic"
                                when="1910-03-02"
@@ -105,6 +105,7 @@
    </tei:facsimile>
    <tei:text xml:lang="ar">
       <tei:pb ed="print" n="1" facs="#facs_1"/>
+<tei:front/>
       <tei:body>
          <tei:div type="item">
             <tei:pb ed="print" n="2" facs="#facs_2"/>
