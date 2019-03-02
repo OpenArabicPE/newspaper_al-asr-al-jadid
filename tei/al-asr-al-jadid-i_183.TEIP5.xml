@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?>
+<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xmlns="http://www.tei-c.org/ns/1.0"
+         xml:id="al-asr-al-jadid-i_183"
+         prev="al-asr-al-jadid-i_182.TEIP5.xml"
+         next="al-asr-al-jadid-i_184.TEIP5.xml">
+   <tei:teiHeader xml:lang="en">
+      <tei:fileDesc>
+         <tei:titleStmt>
+            <title>al-ʿAṣr al-Jadīd #183, 11 March 1910</title>
+            <title type="sub">TEI edition</title>
+            <respStmt xml:lang="en">
+               <resp>TEI edition</resp>
+               <persName xml:id="pers_TG">Till Grallert</persName>
+            </respStmt>
+         </tei:titleStmt>
+         <tei:publicationStmt>
+            <authority>
+               <persName>Till Grallert</persName>
+            </authority>
+            <pubPlace>Beirut</pubPlace>
+            <date when="2019">2019</date>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence>
+            </availability>
+            <idno type="url">https://github.com/openarabicpe/newspaper_al-asr-al-jadid/blob/master/tei/al-asr-al-jadid-i_183.TEIP5.xml</idno>
+         </tei:publicationStmt>
+         <tei:sourceDesc>
+            <tei:biblStruct xml:lang="en">
+                    <tei:monogr xml:lang="en">
+                        <title level="j" xml:lang="ar">العصر الجديد</title>
+                        <title level="j" xml:lang="ar-Latn-x-ijmes">al-ʿAṣr al-Jadīd</title>
+                        <title level="j" type="sub" xml:lang="ar">جريدة سياسية تجارية علمية صناعية  ادبية زراعية</title>
+                        <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
+                        <idno type="OCLC" xml:lang="en"/>
+                        <editor xml:lang="en">
+                            <persName xml:lang="ar">
+                                <forename>ناصيف</forename>
+                                <surname>ابو زيد</surname>
+                            </persName>
+                            <persName xml:lang="ar-Latn-x-ijmes">
+                                <forename>Nāṣīf</forename>
+                                <surname>Abū Zayd</surname>
+                            </persName>
+                        </editor>
+                        <tei:imprint xml:lang="en">
+                            <publisher xml:lang="en">
+                                <orgName xml:lang="ar">مطبعة العلمية</orgName>
+                                <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa al-ʿilmiyya</orgName>
+                            </publisher>
+                            <pubPlace xml:lang="en">
+                                <placeName xml:lang="ar" ref="geon:170654" change="#d5e58">الشام</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Shām</placeName>
+                                <placeName xml:lang="en" ref="geon:170654" change="#d5e58">Damascus</placeName>
+                                <placeName xml:lang="fr" ref="geon:170654" change="#d5e58">Damas</placeName>
+                            </pubPlace>
+                            <tei:date when="1910-03-11" xml:lang="en">11 March 1910, Friday</tei:date>
+                            <tei:date calendar="#cal_islamic"
+                               datingMethod="#cal_islamic"
+                               when="1910-03-11"
+                               when-custom="1328-02-28"
+                               xml:lang="ar-Latn-x-ijmes">28 Ṣafār 1328, Friday</tei:date>
+                            <tei:date calendar="#cal_ottomanfiscal"
+                               datingMethod="#cal_ottomanfiscal"
+                               when="1910-03-11"
+                               when-custom="1325-12-26"
+                               xml:lang="ar-Latn-x-ijmes">26 Shubāṭ 1325, Friday</tei:date>
+                        </tei:imprint>
+                        <tei:biblScope from="2" to="2" unit="volume"/>
+                        <tei:biblScope from="183" to="183" unit="issue"/>
+                        <tei:biblScope from="1" to="4" unit="page"/>
+                    </tei:monogr>
+                </tei:biblStruct>
+         </tei:sourceDesc>
+      </tei:fileDesc>
+      <tei:revisionDesc>
+         <tei:change when="2019-03-02">Created this file by automatic conversion of <tei:gi>biblStruct</tei:gi> from file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/OpenArabicPE/newspaper_al-asr-al-jadid/metadata/al-asr-al-jadid.TEIP5.xml.</tei:change>
+      </tei:revisionDesc>
+   </tei:teiHeader>
+   <tei:facsimile>
+      <tei:surface xml:id="facs_1">
+         <tei:graphic xml:id="facs_1-g_3"
+                      url="../images/al-asr-al-jadid-i_183-date_1910-03-11-p_1.tif"
+                      mimeType="image/tiff"/>
+      </tei:surface>
+      <tei:surface xml:id="facs_2">
+         <tei:graphic xml:id="facs_2-g_3"
+                      url="../images/al-asr-al-jadid-i_183-date_1910-03-11-p_2.tif"
+                      mimeType="image/tiff"/>
+      </tei:surface>
+      <tei:surface xml:id="facs_3">
+         <tei:graphic xml:id="facs_3-g_3"
+                      url="../images/al-asr-al-jadid-i_183-date_1910-03-11-p_3.tif"
+                      mimeType="image/tiff"/>
+      </tei:surface>
+      <tei:surface xml:id="facs_4">
+         <tei:graphic xml:id="facs_4-g_3"
+                      url="../images/al-asr-al-jadid-i_184-date_1910-03-12-p_0.tif"
+                      mimeType="image/tiff"/>
+      </tei:surface>
+   </tei:facsimile>
+   <tei:text xml:lang="ar">
+      <tei:pb ed="print" n="1" facs="#facs_1"/>
+      <tei:body>
+         <tei:div type="item">
+            <tei:pb ed="print" n="2" facs="#facs_2"/>
+            <tei:pb ed="print" n="3" facs="#facs_3"/>
+            <tei:pb ed="print" n="4" facs="#facs_4"/>
+         </tei:div>
+      </tei:body>
+   </tei:text>
+</tei:TEI>
