@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?>
-<tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0"
-         xmlns="http://www.tei-c.org/ns/1.0"
-         xml:id="al-asr-al-jadid-i_125"
-         prev="al-asr-al-jadid-i_124.TEIP5.xml"
-         next="al-asr-al-jadid-i_126.TEIP5.xml">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?><tei:TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0" xml:id="al-asr-al-jadid-i_125" prev="al-asr-al-jadid-i_124.TEIP5.xml" next="al-asr-al-jadid-i_126.TEIP5.xml">
    <tei:teiHeader xml:lang="en">
       <tei:fileDesc>
          <tei:titleStmt>
@@ -59,16 +50,8 @@
                                 <placeName xml:lang="fr" ref="geon:170654" change="#d5e58">Damas</placeName>
                             </pubPlace>
                             <tei:date calendar="#cal_gregorian" when="1910-01-03" xml:lang="en">3 January 1910, Monday</tei:date>
-                            <tei:date calendar="#cal_islamic"
-                               datingMethod="#cal_islamic"
-                               when="1910-01-03"
-                               when-custom="1327-12-21"
-                               xml:lang="ar-Latn-x-ijmes">21 Dhū al-ḥijja 1327, Monday</tei:date>
-                            <tei:date calendar="#cal_ottomanfiscal"
-                               datingMethod="#cal_ottomanfiscal"
-                               when="1910-01-03"
-                               when-custom="1325-10-21"
-                               xml:lang="ar-Latn-x-ijmes">21 Kānūn al-awwal 1325, Monday</tei:date>
+                            <tei:date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1910-01-03" when-custom="1327-12-21" xml:lang="ar-Latn-x-ijmes">21 Dhū al-ḥijja 1327, Monday</tei:date>
+                            <tei:date calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal" when="1910-01-03" when-custom="1325-10-21" xml:lang="ar-Latn-x-ijmes">21 Kānūn al-awwal 1325, Monday</tei:date>
                         </tei:imprint>
                         <tei:biblScope from="2" to="2" unit="volume"/>
                         <tei:biblScope from="125" to="125" unit="issue"/>
@@ -77,35 +60,27 @@
                 </tei:biblStruct>
          </tei:sourceDesc>
       </tei:fileDesc>
-      <tei:revisionDesc>
+      <tei:revisionDesc><change when="2019-03-02" who="#pers_TG" xml:id="d3e143" xml:lang="en">Generated a new <tei:gi xml:lang="en">front</tei:gi>based on the <tei:gi xml:lang="en">sourceDesc</tei:gi>that matches the information found in the masthead of the actual issues.</change>
          <tei:change when="2019-03-02">Created this file by automatic conversion of <tei:gi>biblStruct</tei:gi> from file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/OpenArabicPE/newspaper_al-asr-al-jadid/metadata/al-asr-al-jadid.TEIP5.xml.</tei:change>
       </tei:revisionDesc>
    </tei:teiHeader>
    <tei:facsimile>
       <tei:surface xml:id="facs_1">
-         <tei:graphic xml:id="facs_1-g_3"
-                      url="../images/al-asr-al-jadid-i_125-date_1910-01-03-p_1.tif"
-                      mimeType="image/tiff"/>
+         <tei:graphic xml:id="facs_1-g_3" url="../images/al-asr-al-jadid-i_125-date_1910-01-03-p_1.tif" mimeType="image/tiff"/>
       </tei:surface>
       <tei:surface xml:id="facs_2">
-         <tei:graphic xml:id="facs_2-g_3"
-                      url="../images/al-asr-al-jadid-i_125-date_1910-01-03-p_2.tif"
-                      mimeType="image/tiff"/>
+         <tei:graphic xml:id="facs_2-g_3" url="../images/al-asr-al-jadid-i_125-date_1910-01-03-p_2.tif" mimeType="image/tiff"/>
       </tei:surface>
       <tei:surface xml:id="facs_3">
-         <tei:graphic xml:id="facs_3-g_3"
-                      url="../images/al-asr-al-jadid-i_125-date_1910-01-03-p_3.tif"
-                      mimeType="image/tiff"/>
+         <tei:graphic xml:id="facs_3-g_3" url="../images/al-asr-al-jadid-i_125-date_1910-01-03-p_3.tif" mimeType="image/tiff"/>
       </tei:surface>
       <tei:surface xml:id="facs_4">
-         <tei:graphic xml:id="facs_4-g_3"
-                      url="../images/al-asr-al-jadid-i_126-date_1910-01-04-p_0.tif"
-                      mimeType="image/tiff"/>
+         <tei:graphic xml:id="facs_4-g_3" url="../images/al-asr-al-jadid-i_126-date_1910-01-04-p_0.tif" mimeType="image/tiff"/>
       </tei:surface>
    </tei:facsimile>
-   <tei:text xml:lang="ar">
-      <tei:pb ed="print" n="1" facs="#facs_1"/>
-<tei:front/>
+   <tei:text xml:lang="ar"><tei:pb ed="print" n="1" facs="#facs_1"/>
+      
+<tei:front change="#d3e143"><tei:div change="#d3e143" type="masthead"><tei:bibl><tei:biblScope unit="issue" from="125" to="125">العدد 125</tei:biblScope><tei:biblScope unit="volume" from="2" to="2">السنة الثنية</tei:biblScope><lb/><title level="j" xml:lang="ar">العصر الجديد</title><lb/><title level="j" type="sub" xml:lang="ar">جريدة سياسية تجارية علمية صناعية  ادبية زراعية</title><lb/><placeName xml:lang="ar" ref="geon:170654" change="#d5e58">الشام</placeName> في <tei:date calendar="#cal_islamic" datingMethod="#cal_islamic" when="1910-01-03" when-custom="1327-12-21" xml:lang="ar">٢١ ذو الحجة سنة ١٣٢٧</tei:date> الموافق <tei:date calendar="#cal_ottomanfiscal" datingMethod="#cal_ottomanfiscal" when="1910-01-03" when-custom="1325-10-21" xml:lang="ar">٢١ كانون الاول سنة ١٣٢٥</tei:date> و<tei:date calendar="#cal_gregorian" when="1910-01-03" xml:lang="ar">٣ كانون الثاني سنة ١٩١٠</tei:date></tei:bibl></tei:div></tei:front>
       <tei:body>
          <tei:div type="item">
             <tei:pb ed="print" n="2" facs="#facs_2"/>
