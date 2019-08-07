@@ -4,7 +4,7 @@ author: Till Grallert
 date: 2019-03-01
 ---
 
-This repository contains bibliographic metadata for the privately published newspaper in Damascus, *al-ʿAṣr al-Jadīd*, which was published from 1 October 1908 onwards by Nāṣīḏ Abū Zayd.
+This repository contains bibliographic metadata for the privately published newspaper in Damascus, *al-ʿAṣr al-Jadīd*, which was published from 1 October 1908 onwards by Nāṣīf Abū Zayd.
 
 # some technical details
 
