@@ -23,7 +23,7 @@
                 <p xml:id="p_1.d2e48" change="#d2e69" xml:lang="en">This is a born-digital file.</p>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc xml:lang="en"><tei:change when="2019-03-01" who="#pers_TG" xml:id="d5e58" xml:lang="en">Added references to GeoNames IDs to <tei:gi>placeName</tei:gi>s without such references based on  <tei:gi>place</tei:gi>s mentioned in <tei:ref target="../data/tei/gazetteer_levant-phd.TEIP5.xml">../data/tei/gazetteer_levant-phd.TEIP5.xml</tei:ref> but not previously present in this master file.</tei:change>
+        <revisionDesc xml:lang="en"><tei:change when="2019-08-08" who="#pers_TG" xml:id="d3e69" xml:lang="en">Added references to local authority file (<tei:ref target="../data/tei/personography_OpenArabicPE.TEIP5.xml">../data/tei/personography_OpenArabicPE.TEIP5.xml</tei:ref>) and VIAF to <tei:gi>persName</tei:gi>s without such references based on <tei:gi>person</tei:gi>s in the local authority file. If the source <tei:gi>persName</tei:gi> did not contain any further TEI mark-up, this has been added from the local authority file.</tei:change><tei:change when="2019-03-01" who="#pers_TG" xml:id="d5e58" xml:lang="en">Added references to GeoNames IDs to <tei:gi>placeName</tei:gi>s without such references based on  <tei:gi>place</tei:gi>s mentioned in <tei:ref target="../data/tei/gazetteer_levant-phd.TEIP5.xml">../data/tei/gazetteer_levant-phd.TEIP5.xml</tei:ref> but not previously present in this master file.</tei:change>
             <change when="2019-03-01" who="#pers_TG" xml:id="change_1.d2e55" change="#d2e69" xml:lang="en">Created this file through automatic iteration and manual cross-checking with the digital facsimiles.</change>
         </revisionDesc>
     </teiHeader>
@@ -38,11 +38,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -75,11 +75,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -112,11 +112,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -149,11 +149,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -186,11 +186,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -223,11 +223,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -260,11 +260,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -297,11 +297,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -334,11 +334,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -371,11 +371,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -409,11 +409,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -446,11 +446,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -483,11 +483,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -520,11 +520,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -557,11 +557,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -594,11 +594,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -631,11 +631,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -668,11 +668,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -705,11 +705,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -742,11 +742,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -779,11 +779,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -816,11 +816,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -853,11 +853,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -890,11 +890,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -927,11 +927,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -964,11 +964,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1001,11 +1001,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1038,11 +1038,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1075,11 +1075,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1112,11 +1112,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1149,11 +1149,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1186,11 +1186,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1223,11 +1223,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1260,11 +1260,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1297,11 +1297,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1334,11 +1334,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1371,11 +1371,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1408,11 +1408,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1445,11 +1445,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1482,11 +1482,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1519,11 +1519,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1556,11 +1556,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1593,11 +1593,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1630,11 +1630,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1667,11 +1667,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1704,11 +1704,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1741,11 +1741,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1778,11 +1778,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1815,11 +1815,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1852,11 +1852,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1889,11 +1889,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1926,11 +1926,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -1963,11 +1963,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2000,11 +2000,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2037,11 +2037,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2074,11 +2074,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2111,11 +2111,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2148,11 +2148,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2185,11 +2185,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2222,11 +2222,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2259,11 +2259,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2296,11 +2296,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2333,11 +2333,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2370,11 +2370,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2407,11 +2407,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2444,11 +2444,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2481,11 +2481,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2519,11 +2519,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2556,11 +2556,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2593,11 +2593,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2630,11 +2630,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2667,11 +2667,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2705,11 +2705,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2742,11 +2742,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2779,11 +2779,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2816,11 +2816,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2853,11 +2853,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2890,11 +2890,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2927,11 +2927,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -2964,11 +2964,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3001,11 +3001,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3038,11 +3038,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3075,11 +3075,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3112,11 +3112,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3149,11 +3149,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3186,11 +3186,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3223,11 +3223,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3260,11 +3260,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3297,11 +3297,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3334,11 +3334,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3371,11 +3371,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3408,11 +3408,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3445,11 +3445,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3482,11 +3482,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3519,11 +3519,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3556,11 +3556,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3593,11 +3593,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3630,11 +3630,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3667,11 +3667,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3704,11 +3704,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3741,11 +3741,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3778,11 +3778,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3815,11 +3815,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3852,11 +3852,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3889,11 +3889,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3926,11 +3926,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -3963,11 +3963,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4000,11 +4000,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4037,11 +4037,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4074,11 +4074,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4111,11 +4111,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4148,11 +4148,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4185,11 +4185,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4222,11 +4222,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4259,11 +4259,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4296,11 +4296,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4333,11 +4333,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4370,11 +4370,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4407,11 +4407,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4444,11 +4444,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4481,11 +4481,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4518,11 +4518,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4555,11 +4555,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4592,11 +4592,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4629,11 +4629,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4666,11 +4666,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4703,11 +4703,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4740,11 +4740,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4777,11 +4777,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4814,11 +4814,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4851,11 +4851,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4888,11 +4888,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4925,11 +4925,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4962,11 +4962,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -4999,11 +4999,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5036,11 +5036,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5073,11 +5073,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5110,11 +5110,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5147,11 +5147,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5184,11 +5184,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5222,11 +5222,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5259,11 +5259,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5296,11 +5296,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5334,11 +5334,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5371,11 +5371,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5408,11 +5408,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5445,11 +5445,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5482,11 +5482,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5519,11 +5519,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5556,11 +5556,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5593,11 +5593,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5630,11 +5630,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5667,11 +5667,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5704,11 +5704,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5741,11 +5741,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5778,11 +5778,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5815,11 +5815,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5852,11 +5852,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5889,11 +5889,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5926,11 +5926,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -5963,11 +5963,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6000,11 +6000,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6037,11 +6037,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6074,11 +6074,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6111,11 +6111,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6148,11 +6148,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6185,11 +6185,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6222,11 +6222,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6259,11 +6259,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6296,11 +6296,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6333,11 +6333,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6371,11 +6371,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6408,11 +6408,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6445,11 +6445,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6482,11 +6482,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6519,11 +6519,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6556,11 +6556,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6593,11 +6593,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6630,11 +6630,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6667,11 +6667,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6704,11 +6704,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6741,11 +6741,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6778,11 +6778,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6815,11 +6815,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6852,11 +6852,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6889,11 +6889,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6926,11 +6926,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -6963,11 +6963,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -7000,11 +7000,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -7037,11 +7037,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -7074,11 +7074,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -7111,11 +7111,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -7148,11 +7148,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -7185,11 +7185,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -7222,11 +7222,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
@@ -7260,11 +7260,11 @@
                         <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda siyāsiyya tujāriyya ʿilmiyya ṣināʿiyya adabiyya zirāʿiyya</title>
                         <idno type="OCLC" xml:lang="en"/>
                         <editor xml:lang="en">
-                            <persName xml:lang="ar">
+                            <persName xml:lang="ar" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>ناصيف</forename>
                                 <surname>ابو زيد</surname>
                             </persName>
-                            <persName xml:lang="ar-Latn-x-ijmes">
+                            <persName xml:lang="ar-Latn-x-ijmes" change="#d3e69" ref="oape:pers:2858 viaf:305214784">
                                 <forename>Nāṣīf</forename>
                                 <surname>Abū Zayd</surname>
                             </persName>
