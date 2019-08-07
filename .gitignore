@@ -1,4 +1,10 @@
 .DS_Store
 
 _output/
+# ignore image files
+images
 images/
+.jpg
+.jpeg
+*.tif
+*.tiff
