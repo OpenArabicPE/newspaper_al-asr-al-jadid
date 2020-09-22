@@ -86,9 +86,9 @@
             <tei:pb ed="print" facs="#facs_2" n="2"/>
             <tei:pb ed="print" facs="#facs_3" n="3"/>
          </tei:div>
-         <tei:div subtype="verse" type="item">
-            <head>قصيدة <supplied resp="#pers_TG">الى الامة العربية</supplied></head>
-            <byline><persName><forename>معروف</forename> <surname>الرصافي</surname></persName></byline>
+         <tei:div subtype="verse" type="item" xml:lang="ar">
+            <head xml:lang="ar">قصيدة <supplied resp="#pers_TG">الى الامة العربية</supplied></head>
+            <byline><persName xml:lang="ar"><forename>معروف</forename> <surname>الرصافي</surname></persName></byline>
          </tei:div>
          <tei:div type="item">
             <tei:pb ed="print" facs="#facs_4" n="4"/>
