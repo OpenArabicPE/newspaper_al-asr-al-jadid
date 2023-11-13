@@ -15,7 +15,7 @@
                     <licence target="http://creativecommons.org/licenses/by-sa/4.0/" xml:id="licence_1.d2e39" xml:lang="en"
                         >Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence>
                 </availability>
-                <idno type="url" xml:id="idno_1.d2e43"/>
+                <idno type="url" xml:id="idno_1.d2e43">https://github.com/OpenArabicPE/newspaper_al-asr-al-jadid</idno>
             </publicationStmt>
             <sourceDesc change="#d2e69" xml:id="sourceDesc_1.d2e46" xml:lang="en">
                 <p change="#d2e69" xml:id="p_1.d2e48" xml:lang="en">This is a born-digital file.</p>
